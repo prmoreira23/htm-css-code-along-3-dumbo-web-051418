@@ -1,1 +1,16 @@
-/* This is a comment */
+/* This 
+is 
+a comment */
+
+/* CSS Syntax 
+
+selector {
+    property: value;
+    property: value;
+}
+*/
+
+/* Type Selector */
+    p {/* Select all <p> */
+        font-size: 16px;
+    }
