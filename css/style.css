@@ -35,13 +35,6 @@ figcaption {
 }
 
 /* ID Selector */
-#logo {
-    
+#logo { /* select elements with id="logo" */
+    background: blue;
 }
-
-
-
-
-
-
-
