@@ -16,8 +16,9 @@ selector {
         line-height: 1.5em;
     }
 figcaption {
-    font-weight: normal;
+    /*font-weight: normal;
     font-size: 0.75em;
     line-height: 1.5em;
-    font-family: Georgia, "Times New Roman", serif;
+    font-family: Georgia, "Times New Roman", serif;*/
+    font: normal 0.75em/1.5em Georgia, "Times New Roman", serif;
 }
