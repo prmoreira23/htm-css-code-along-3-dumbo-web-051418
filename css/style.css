@@ -47,3 +47,12 @@ figcaption {
 #logo h2 { /* slects <h1> if inside the id="logo" */
     font-family: 'Elsie Swash Caps', cursive;
 }
+
+
+/* Pseudo-class selectors */
+#details a:link {
+    
+}
+
+
+
