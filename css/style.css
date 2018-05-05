@@ -22,4 +22,5 @@ figcaption {
     font-family: Georgia, "Times New Roman", serif;*/
     font: normal 0.75em/1.5em Georgia, "Times New Roman", serif;
     color: #000000;
+    text-align: right;
 }
